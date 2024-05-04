@@ -31,3 +31,7 @@
     background-color: var(--color-light);
   }
 }
+.tr:hover,
+.th:focus {
+  background-color: rgb(230, 233, 53);
+}
